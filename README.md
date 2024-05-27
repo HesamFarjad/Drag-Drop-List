@@ -17,12 +17,8 @@ This TypeScript code is a comprehensive example of a drag-and-drop project manag
 
 
 
-<img width="1440" alt="Screenshot 2024-05-27 at 15 41 58" src="https://github.com/HesamFarjad/Drag-Drop-List/assets/81914229/10cccc66-2c9a-4d21-ae3f-6292223d169f">
-
-<img width="1440" alt="Screenshot 2024-05-27 at 15 43 01" src="https://github.com/HesamFarjad/Drag-Drop-List/assets/81914229/18bb1db5-37f0-4f8e-8b65-3f843d403d4b">
-
-<img width="1440" alt="Screenshot 2024-05-27 at 15 42 56" src="https://github.com/HesamFarjad/Drag-Drop-List/assets/81914229/be3458f5-ccd4-4bee-9857-9a4ed232fcbd">
-
-<img width="1440" alt="Screenshot 2024-05-27 at 15 42 48" src="https://github.com/HesamFarjad/Drag-Drop-List/assets/81914229/9c69bdce-7a00-4e43-bf1e-d6b8ac8db3fd">
-
-<img width="1440" alt="Screenshot 2024-05-27 at 15 42 39" src="https://github.com/HesamFarjad/Drag-Drop-List/assets/81914229/227ec0df-42c6-4b29-9543-b8cd6be4445c">
+<img width="1440" alt="Screenshot 2024-05-27 at 15 43 01" src="https://github.com/HesamFarjad/Drag-Drop-List/assets/81914229/47efa042-1dfe-4a2b-a7ea-4a339ed20841">
+<img width="1440" alt="Screenshot 2024-05-27 at 15 42 56" src="https://github.com/HesamFarjad/Drag-Drop-List/assets/81914229/adcafd9e-ea79-4483-9466-8e9b8422b50d">
+<img width="1440" alt="Screenshot 2024-05-27 at 15 42 48" src="https://github.com/HesamFarjad/Drag-Drop-List/assets/81914229/9cb41b43-e056-4428-af62-30eac64aab24">
+<img width="1440" alt="Screenshot 2024-05-27 at 15 42 39" src="https://github.com/HesamFarjad/Drag-Drop-List/assets/81914229/81642068-4080-4eff-95c7-8ad8dd312ec0">
+<img width="1440" alt="Screenshot 2024-05-27 at 15 41 58" src="https://github.com/HesamFarjad/Drag-Drop-List/assets/81914229/592d9d25-0b30-408e-8c1c-535a5051db15">
